@@ -2,7 +2,9 @@ Copyright (c) 2009-2020 Satoshi Nakamoto
 
 -addnode = 47.114.58.108
 This is a cloud address in China but not mine.
-For Mac users，You may need to turn off IPv6.
+For Mac users，You may need to turn off IPv6; Please install boost@1.6
+
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
