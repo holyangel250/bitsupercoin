@@ -1,0 +1,3 @@
+found a big mistake about the statement "pruning exclude coinbase"，it will be repaired
+stop the temporary originator peer from 2020-04-14 to 2020-04-18
+
