@@ -4,6 +4,7 @@ Copyright (c) 2009-2020 Satoshi Nakamoto
 This is a cloud address in China but not mine.
 For Mac users，You may need to turn off IPv6; Please install boost@1.6
 
+Attention: Only 100 fetch operations after wallet encryption(keypool fixed), include mining
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
