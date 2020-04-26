@@ -1,6 +1,7 @@
 found a big mistake about the statement "pruning exclude coinbase"，it will be repaired
 stop the temporary originator peer from 2020-04-14 to 2020-04-18
 
-Updates:1 cleanup ispruned coinbase (vin,vout wont be serialized)
-2 the chain is the distribution coins set
+Updates:
+1 cleanup ispruned coinbase (vin,vout wont be serialized)
+2 the chain is the set of distributed coins same as CCoinsviewcache with a small amount of repetition
 3 opensource the changes in bitcoin-0.10.2，if you want to be a peer，please contact me to addnode
